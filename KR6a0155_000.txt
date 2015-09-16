@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 九橫經
+#+DATE: 2015-08-30 19:33:03.328012
+#+PROPERTY: JUAN 0
